@@ -1,3 +1,7 @@
+## Ryan Le Bon 
+## October 15, 2017
+## Github @Ryanbbq
+
 import socket
 import sys
 from thread import *
@@ -36,3 +40,6 @@ data2 = connec2.recv(1024).decode()
 print('Recieved from client (1) .: ' + data)
 
 print('Recieved from client (2) .: ' + data2)
+## Ryan Le Bon 
+## October 15, 2017
+## Github @Ryanbbq

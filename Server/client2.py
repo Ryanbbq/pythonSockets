@@ -1,3 +1,6 @@
+## Ryan Le Bon 
+## October 15, 2017
+## Github @Ryanbbq
 import socket
 
 
@@ -16,3 +19,6 @@ print('Received from server : ' + data)
 
 
 mainSock.close()
+## Ryan Le Bon 
+## October 15, 2017
+## Github @Ryanbbq
